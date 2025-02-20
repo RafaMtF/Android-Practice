@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Compose Article</string>
+    <string name="title_jetpack_compose_tutorial">Title</string>
+    <string name="compose_long_desc">lorem</string>
+    <string name="compose_short_desc">Ipsum</string>
+</resources>
